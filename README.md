@@ -1,0 +1,2 @@
+# Automatic-defect-detection-of-carbon-fiber-woven-fabrics-using-machine-vision
+The following code is provided in the context of the article "Automatic defect detection of carbon fiber woven fabrics using machine vision." During the liquid molding process of carbon fiber fabrics, manual operations are involved, which can potentially introduce defects. Hence, employing automated techniques for defect detection is essential to improve efficiency. Additionally, defect segmentation and quantitative analysis can assist operators in making informed decisions.
